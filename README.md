@@ -12,7 +12,7 @@ Developed a Windows Forms application that estimates cable installation costs ba
 - Clears input fields for a new calculation.
 
 ## Skills Demonstrated
-C# · Windows Forms · Event-Driven Programming · Calculations · User Input · Currency Formatting
+C# · Windows Forms
 
 ## Project Link
 [View Cable Cost Calculator on GitHub](https://github.com/cbcald01/Cable-Cost-Calculator)
