@@ -16,3 +16,5 @@ C# · Windows Forms
 
 ## Project Link
 [View Cable Cost Calculator on GitHub](https://github.com/cbcald01/Cable-Cost-Calculator)
+
+<img width="731" height="540" alt="image" src="https://github.com/user-attachments/assets/a1b49b28-7f2e-4776-b2d7-a71035453175" />
